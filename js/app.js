@@ -34,6 +34,7 @@ submitElement.addEventListener('click', function() {
 
     /*risultato calcolo biglietto*/
     const calcResult = document.getElementById('calc-result');
+    
     console.log(calcResult);
 
     /*Validation*/

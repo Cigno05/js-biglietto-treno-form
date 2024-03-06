@@ -1,4 +1,42 @@
+/*---------HEADER-----------*/
+
+header {
+    background-color: red;
+    text-align: center;
+    color: white;
+    padding-bottom: 1px;
+}
+
+
+
+
+
+/*----------MAIN--------------*/
+
 .form-select {
-    width: 200px;
+    
     display: inline-block;
 }
+
+.container {
+    background-color: #e5e5e5;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+
+label {
+    margin-right: 5px;
+}
+
+.ticket__price h3,
+.ticket__price h2 {
+    text-align: center;
+}
+
+
+
+
+
+
+
